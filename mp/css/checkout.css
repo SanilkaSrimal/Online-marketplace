@@ -1,0 +1,83 @@
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f7f8fc;
+        }
+        .card {
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 15px; /* Reduced padding inside the card */
+        }
+        .card-title {
+            font-size: 1.4rem; /* Slightly smaller font size for the title */
+            font-weight: 600;
+            color: #333;
+        }
+        .card-text {
+            font-size: 1rem; /* Reduced font size */
+            color: #666;
+        }
+        .checkout-container {
+            max-width: 400px; /* Reduced max-width for the container */
+            margin: auto;
+            padding: 20px;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            padding: 6px;
+            font-size: 1.1rem;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+        .btn-secondary {
+            background-color: #6c757d;
+            border-color: #6c757d;
+            padding: 5px;
+            font-size: 1.1rem;
+        }
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
+        .alert {
+            font-size: 1.2rem;
+            padding: 15px;
+        }
+        footer {
+            background-color: #343a40;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        footer a {
+            color: #fff;
+            text-decoration: none;
+            margin-left: 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+        .navbar {
+            background-color: #0252ca;
+            padding: 10px 0;
+        }
+        .navbar-brand {
+            font-size: 1.8rem;
+            font-weight: 600;
+        }
+        .nav-link {
+            color: white;
+            font-weight: bold;
+            margin-right: 20px;
+        }
+        .nav-link:hover {
+            color: #c5c5c5;
+        }
+  
